@@ -1,4 +1,4 @@
-# Dillinger
+# SubModule Tutorial 
 - Step one, checking out this repo, as you have already done.
 - You will see that we have a submodule called sampleSubmodule, it contains a file called sample with the number 5 in it.
 - The repo sampleSubmodule is currently at 10, so you wish to update it!  you run
