@@ -15,6 +15,7 @@ $ git submodule update --init --recursive
 $ cd sampleSubmodule/
 $ git pull origin master
 ```
+
 - You will now see that you have the current subModule, but a `git status` shows that `sampleSubmodule` has pending commits.  Why the change? That's because in doing your pull you've updated the official version point for the submodule in this repo.  You can commit and push that:
 - 
 ```sh 
