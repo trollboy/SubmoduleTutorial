@@ -1,0 +1,3 @@
+[submodule "sampleSubmodule"]
+	path = sampleSubmodule
+	url = git@github.com:trollboy/sampleSubmodule.git
